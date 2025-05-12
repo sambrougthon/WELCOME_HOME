@@ -76,3 +76,9 @@ This project represents original narrative design, creative direction, and syste
 WELCOME_HOME is meant to be unsettling.  
 If you finish all loops, ask yourself:  
 **“Did I really make it out?”**
+
+---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
