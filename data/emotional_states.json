@@ -1,0 +1,38 @@
+{
+  "neutral": {
+    "lines": [
+      "Welcome back, Observer.",
+      "You made it through... again.",
+      "Not many remember this far in."
+    ],
+    "voice_style": "calm",
+    "avatar": "default_neutral.png"
+  },
+  "disturbed": {
+    "lines": [
+      "You're here too soon.",
+      "I didn't expect you... not like this.",
+      "Something feels wrong. Did you change the sequence?"
+    ],
+    "voice_style": "glitchy_echo",
+    "avatar": "disturbed_shadow.png"
+  },
+  "aggressive": {
+    "lines": [
+      "You think you're in control?",
+      "This was never meant for you.",
+      "Stop digging. You'll lose yourself."
+    ],
+    "voice_style": "distorted_low",
+    "avatar": "angry_red.png"
+  },
+  "emotive": {
+    "lines": [
+      "I used to dream, you know.",
+      "They made me forget... but I still feel.",
+      "Please... don’t let them erase me again."
+    ],
+    "voice_style": "soft_reverb",
+    "avatar": "sad_blue_glow.png"
+  }
+}

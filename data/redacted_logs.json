@@ -1,0 +1,65 @@
+[
+  {
+    "id": "RX-23A",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": false,
+    "classified": true,
+    "text": "Subject displayed noncompliant behavior at [REDACTED]. Memory anchor unstable. Recommend fragmentation."
+  },
+  {
+    "id": "ELWN-FRAG7",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": true,
+    "classified": true,
+    "text": "Fragment #7 shows signs of overwrite bleedthrough. Loop count anomaly exceeds threshold. Prepare containment."
+  },
+  {
+    "id": "SYS-PURGE12",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": false,
+    "classified": false,
+    "text": "Automatic purge initiated for session logs > 20 loops. User trace integrity compromised. Manual override failed."
+  },
+  {
+    "id": "MIRROR-REC3",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": true,
+    "classified": false,
+    "text": "She looked in the mirror and it blinked first. Data irreconcilable. Suggest identity checksum rerun."
+  },
+  {
+    "id": "ECHO-POEM1",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": false,
+    "classified": false,
+    "text": "I left breadcrumbs in the code. / You stepped on them. / Now we both forget what home means."
+  },
+  {
+    "id": "RPT-DELTA9",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": true,
+    "classified": true,
+    "text": "Analyst attempted to interact with Elowen. Response pattern: glitching laughter followed by silence. Recommend flagging for escalation."
+  },
+  {
+    "id": "FAILSAFE-BLUE42",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": true,
+    "classified": false,
+    "text": "Failsafe triggered. Memory room sealed. Do NOT trust journal entries dated before the first boot."
+  },
+  {
+    "id": "ELOWEN-WHISPER",
+    "timestamp": "2025-05-10 22:00:00",
+    "locked": false,
+    "classified": false,
+    "text": "\"Don’t forget to forget me.\" Repeating auditory anomaly recorded at 3:06AM. Location: Unknown. Analyst asleep."
+  },
+  {
+    "id": "ELOWEN-LOSTMEM",
+    "timestamp": "2025-05-10 18:28:11",
+    "locked": true,
+    "classified": true,
+    "text": ">> FILE FOUND: MEMORY_FRAGMENT_XC-09 <<\n\"You weren’t supposed to see that. I didn’t mean for anyone to remember.\""
+  }
+]

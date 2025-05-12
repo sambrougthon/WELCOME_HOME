@@ -1,0 +1,50 @@
+[
+  {
+    "session_id": "Z-199",
+    "analyst": "UNKNOWN",
+    "comfort_score": 19,
+    "elowen_presence": 95,
+    "corruption_level": 0.91,
+    "memory_fragments": 32
+  },
+  {
+    "session_id": "A-001",
+    "analyst": "Dr. Lin",
+    "comfort_score": 82,
+    "elowen_presence": 23,
+    "corruption_level": 0.11,
+    "memory_fragments": 18
+  },
+  {
+    "session_id": "B-045",
+    "analyst": "J. Harper",
+    "comfort_score": 39,
+    "elowen_presence": 76,
+    "corruption_level": 0.41,
+    "memory_fragments": 25
+  },
+  {
+    "session_id": "E-004",
+    "analyst": "NULL",
+    "comfort_score": 12,
+    "elowen_presence": 99,
+    "corruption_level": 0.95,
+    "memory_fragments": 39
+  },
+  {
+    "session_id": "G-066",
+    "analyst": "S. Nadir",
+    "comfort_score": 56,
+    "elowen_presence": 44,
+    "corruption_level": 0.21,
+    "memory_fragments": 22
+  },
+  {
+    "session_id": "M-000",
+    "analyst": "SYSTEM",
+    "comfort_score": 100,
+    "elowen_presence": 0,
+    "corruption_level": 0.01,
+    "memory_fragments": 12
+  }
+]
